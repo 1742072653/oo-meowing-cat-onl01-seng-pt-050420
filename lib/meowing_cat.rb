@@ -4,11 +4,9 @@ attr_accessor.name
 
 
 def meow
-  @meow
+puts "mewo!"
 end
 
-def meow=(meow)
-  @meow = meow
-end
+
 end
 
