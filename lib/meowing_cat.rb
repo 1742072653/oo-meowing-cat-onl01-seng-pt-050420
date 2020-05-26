@@ -1,6 +1,6 @@
 class Cat
   def name
-    @name
-  end
-  
-  def name
+attr_accessor.name
+end
+
+
